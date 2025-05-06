@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Box } from '@mui/material';
+import { Button } from '@mui/material';
 
 const NotFound = () => {
   return (
